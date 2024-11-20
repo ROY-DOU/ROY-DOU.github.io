@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ze-Qing WANG (王泽卿)"
+title                    : "Zi-Jun DOU (窦梓峻)"
 title_separator          : "-"
 name                     : &name "Zeqing Wang"
 description              : &description "Welcome to my homepage!"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zeqing Wang"
+  name             : "Zijun Dou"
   avatar           : "profile.jpg"
-  bio              : "A Master student in computer science and technology at Sun Yat-sen University"
-  location         : "Guangzhou, China"
-  employer         : "SUN YAT-SEN UNIVERSITY"
-  employer_site    : "https://www.sysu.edu.cn/"
+  bio              : "A Master student in computer science at Tsinghua University"
+  location         : "Beijing, China"
+  employer         : "TSINGHUA UNIVERSITY"
+  employer_site    : "https://www.tsinghua.edu.cn/en/"
   zhihu            : "ze-qing-wang"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F4t35pOofPrPWFCFvcrYrWGN0_FePDScr9yRgto7CrmcDExRI9UubeIOHYqMaWF9tnlaCt9UdmTlu-LxLE01Kbb9cNVutqI_W9-qDB6cQm3oMZfqcU&user=K5TojPQAAAAJ"
