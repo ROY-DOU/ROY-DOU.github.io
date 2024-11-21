@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* MPhil. in Computer Science and Technology, [Sun Yat-sen University](https://www.sysu.edu.cn/), 2023 - NOW
-  * @School Of Computer Science And Engineering
+* MPhil. in Cybersecurity, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2025 - 2028(Expected)
+  * @Institute for Network Sciences and Cyberspace
 
-* B.Sc. in Software Engineering, [Jilin University](https://www.jlu.edu.cn/), 2019 - 2023
+* B.Sc. in Software Engineering, [Jilin University](https://www.jlu.edu.cn/), 2021 - 2025(Expected)
   * @College Of Software
-  * GPA: 3.80/4.0, Ave. Score: 91.48/100, Rank: Top3%
+  * GPA: 3.79/4.0, Ave. Score: 91.35/100, Rank: Top2%
 
 Selected Honors & Awards
 
