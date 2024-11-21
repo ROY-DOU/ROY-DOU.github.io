@@ -2,6 +2,7 @@
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
+
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
@@ -11,7 +12,7 @@ title                    : "Zi-Jun DOU (窦梓峻)"
 title_separator          : "-"
 name                     : &name "Zijun Dou"
 description              : &description "Welcome to my homepage!"
-url                      : https://zeqing-wang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://roy-dou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   : "profile.jpg"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
