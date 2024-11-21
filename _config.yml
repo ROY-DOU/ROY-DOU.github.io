@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zi-Jun DOU (窦梓峻)"
 title_separator          : "-"
-name                     : &name "Zeqing Wang"
+name                     : &name "Zijun Dou"
 description              : &description "Welcome to my homepage!"
 url                      : https://zeqing-wang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
