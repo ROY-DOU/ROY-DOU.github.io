@@ -18,11 +18,11 @@ Education
   * @College Of Software
   * GPA: 3.79/4.0, Ave. Score: 91.35/100, Rank: Top2%
 
-Selected Honors & Awards
+**Awards**
 
-| *Outstanding graduate of Jilin University* by Jilin University.            | 2023 |
-| *Jilin Bank Wang Xianghao Scholarship* by Jilin Bank & Jilin University.   | 2022 |
-| *CASC Scholarship* (15 students/14 schools) by CASC Committee              | 2022 |
-| *Individual Scholarship Of Jilin Universit*  by Jilin University.          | 2021 & 2022 |
-| *Outstanding Student Of College of Software* by Jilin University.          | 2020 & 2021 & 2022 |
-| *First Class Scholarship Of Jilin University* (Top5%) by Jilin University. | 2020 & 2021 &2023|
+| *National Scholarship* by the Central Government of China.            |2024|
+| *China University Service Outsourcing Innovation and Entrepreneurship Competition: National Third Prize* by the Competition Committee.   |2024|
+| *SAMSUNG Scholarship* by SAMSUNG Committee              |2024|
+| *Outstanding Paper of University Student Innovation and Entrepreneurship Training Program(Ranked 1st)*  by Jilin University.          |2024|
+| *International Genetically Engineered Machine Competition(iGEM): World Silver Medal* by iGEM Committee.          |2023|
+| *Ministry of Education - Huawei "Intelligence Base" Future Star* by the Joint Working Group. |2023|
