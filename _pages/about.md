@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-![BSc](https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2019--2023)-yellowgreen?style=flat-square&color=181717&labelColor=red)
-![MPhil](https://img.shields.io/badge/MPhil.-SYSU.%20(2023--Now)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
+![BSc](https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2021--2025E)-yellowgreen?style=flat-square&color=181717&labelColor=red)
+![MPhil](https://img.shields.io/badge/Master.-TSINGHUA.%20(2025--2028E)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 
 <!-------------------->
-**Seize the day, and do what you are passionate about.**
+**Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.**
 
 Currently, I'm an incoming master student in the [**Institute for Network Sciences and Cyberspace**](https://www.insc.tsinghua.edu.cn/) at [**Tsinghua University**](https://www.tsinghua.edu.cn/en/), as a member of the [**NetMan Lab**](https://netman.aiops.org/), advised by Associate Professor [**Dan Pei**](https://netman.aiops.org/~peidan/). My recent research interests relate to time series foundation models.
 
@@ -38,7 +38,6 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
   <b>[05/2023]</b> I won an Honorable Mention in the Interdisciplinary Contest in Modeling (ICM) by COMAP! <br>   
   </p>
 </div>
-
 **Experience**
 <!-- <h2><b>Experience</b></h2> -->
 
@@ -71,52 +70,43 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 <!-- <h2><b>Publications</b></h2> -->
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b>"Towards Top-Down Reasoning: An Explainable Multi-Agent Approach for Visual Question Answering"</b>
+      <b>"DynaTGNet: Enhanced Transformer-Based Spatiotemporal Dynamic Graph Neural Network for Multivariate Time Series Classification"</b>
       <br>
-      <u>Zeqing Wang</u>, Wentao Wan, Qiqing Lao, Runmeng Chen, Minjie Lang, Keze Wang and Liang Lin      <i>Submitted</i>.
+      <u>Zijun Dou</u>, Xiaosong Han, Zhelun Peng, Heng Li, Bingyi Xiang and Yanchun Liang. <i>ICONIP 2024(CCF-C)</i>.
       <br>
-      [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>]
+    <!--  [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>] -->
     </td>
   </tr>
 
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b>"Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation"</b>
+      <b>"WaveTGNet: Multivariate Time Series Prediction Based on Enhanced Transformer and Graph Wavelet Learning"</b>
       <br>
-      Hui Fu, <u>Zeqing Wang</u>, Ke Gong, Keze Wang, Tianshui Chen, Haojie Li, Haifeng Zeng and Wenxiong Kang. <i>AAAI 2024(CCF-A)</i>.
+      <u>Zijun Dou</u>, Xiaosong Han and Yanchun Liang. <i>Jilin University Student Innovation and Entrepreneurship Training Program</i>.
       <br>
-      [<a href="https://zeqing-wang.github.io/Mimic/">Project Page</a>]
-    </td>
+      <!-- [<a href="https://zeqing-wang.github.io/Mimic/">Project Page</a>] -->
+      <!-- [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>] -->
+
+​    </td>
   </tr>
 
-  <tr>
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b>"E3ID: An Efficient End to End Person Search Model"</b>
-      <br>
-      Siyang Wang, Yanchun Liang, Ao Li, <u>Zeqing Wang</u> and Xiaosong Han. <i>Pattern Recognition Letters(CCF-C)</i>.
-      <br>
-      [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>]
-    </td>
-  </tr>
-
-  <tr>
+<!--  <tr> -->
     <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <a href="images/gaokao.png">
       <img src='images/gaokao.png' width="300">
       </a>
     </td> -->
-    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+<!--    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion"</b>
       <br>
       <u>Zeqing Wang</u>, Shengpeng Ji, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han. <i>Computer Science(Chinese, CCF-B)</i>.
       <br>
       [<a href="https://www.jsjkx.com/CN/10.11896/jsjkx.211100266">Paper</a>]
       [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Github</a>]
-    </td>
-  </tr>
+    </td>-->
+  <!--</tr>-->
 
 </table>
 
@@ -182,7 +172,7 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
     </td>
   </tr>     
   <tr>
-    <td style="border:none;">Volunteer at CBC 2024(CCF Bioinformatics)
+    <td style="border:none;">Volunteer at CBC 2024(CCF Bioinformatics Conference)
     </td>
   </tr>     
   <tr>
@@ -197,7 +187,7 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 
 **Interests**
 
-I am a dedicated fan of League of Legend about 13 years, and my best achievement was ranking in the top 30 in Beijing.
+I am a dedicated fan of League of Legend about 13 years, and my best achievement was ranking in the top 20 in Beijing.
 
 Apart from games, I often play table tennis. 
 
