@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* MPhil. in Cybersecurity, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2025 - 2028(Expected)
+* Master in Cybersecurity, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2025 - 2028(Expected)
   * @Institute for Network Sciences and Cyberspace
 
-* B.Sc. in Software Engineering, [Jilin University](https://www.jlu.edu.cn/), 2021 - 2025(Expected)
+* Bachelor in Software Engineering, [Jilin University](https://www.jlu.edu.cn/), 2021 - 2025(Expected)
   * @College Of Software
   * GPA: 3.79/4.0, Ave. Score: 91.35/100, Rank: Top2%
 
