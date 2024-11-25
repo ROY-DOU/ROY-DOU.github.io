@@ -5,33 +5,35 @@ permalink: /gallery/
 author_profile: true
 ---
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
   <tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>"天空和我的中間。" @Guangzhou, China, 2024</center>
-      <a href="/images/sky_with_me.png">
-      <img src='/images/sky_with_me.png' style="border-radius:20px;">
-      </a>
-    </td>
-  </tr>
+​      <a href="/images/sky_with_me.png">
+​      <img src='/images/sky_with_me.png' style="border-radius:20px;">
+​      </a>
+​    </td>
+  </tr> -->
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
   <tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
+
     <center>What's past is prologue. @Zhengzhou, China, 2024</center>
-      <a href="/images/past_and_future.jpg">
-      <img src='/images/past_and_future.jpg' style="border-radius:20px;">
-      </a>
-    </td>
-    <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
+​      <a href="/images/past_and_future.jpg">
+​      <img src='/images/past_and_future.jpg' style="border-radius:20px;">
+​      </a>
+​    </td>
+​    <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Escape from reality. @Changchun, China, 2023</center>
-      <a href="/images/escape.jpg">
-      <img src='/images/escape.jpg' style="border-radius:20px;">
-      </a>
-    </td>
-  </tr>
+​      <a href="/images/escape.jpg">
+​      <img src='/images/escape.jpg' style="border-radius:20px;">
+​      </a>
+​    </td>
+  </tr> -->
 
-  <tr>
+
+  <!-- <tr>
     <td style="padding:8px;width:50%;vertical-align:middle;horizontal-align:middle;border:none;">
     <center>Sunrise in Changchun. @Changchun, China, 2023</center>
       <a href="/images/Sunrise_in_Changchun.jpg">
@@ -75,6 +77,5 @@ author_profile: true
       </a>
     </th>
   </tr>
-</table>
-
+</table> -->
 
