@@ -16,8 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-
-  <tr>
+<!-- <tr> 
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>"Towards Top-Down Reasoning: An Explainable Multi-Agent Approach for Visual Question Answering"</b>, 
       <br>
@@ -32,9 +31,9 @@ author_profile: true
       <img src='/images/top_down_reasoning.png' width="300">
       </a>
     </td>
-  </tr>
+  </tr> -->
 
-  <tr>
+<!--  <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>"Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation"</b>, 
       <br>
@@ -49,9 +48,9 @@ author_profile: true
       <img src='/images/mimic.png' width="300">
       </a>
     </td>
-  </tr>
+  </tr> -->
 
-  <tr>
+<!--  <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>"E3ID: An Efficient End to End Person Search Model"</b>, 
       <br>
@@ -66,9 +65,9 @@ author_profile: true
       <img src='/images/e3id.png' width="300">
       </a>
     </td>
-  </tr>
+  </tr> -->
 
-  <tr>
+  <!-- <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>"A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion"</b>, 
       <br>
@@ -84,7 +83,7 @@ author_profile: true
       <img src='/images/gaokao.png' width="300">
       </a>
     </td>
-  </tr>
+  </tr>  -->
 
 
 
@@ -92,4 +91,4 @@ author_profile: true
 
 
 
-</table>
+<!-- </table> -->
