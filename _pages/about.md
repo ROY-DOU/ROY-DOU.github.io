@@ -25,6 +25,7 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[12/2024]</b> I won Jilin Bank Wang Xiang-hao Scholarship! <br>      
   <b>[11/2024]</b> I won the National Scholarship! <br>
   <b>[10/2024]</b> I successfully received an offer to pursue a Master's degree at Tsinghua University! <br>
   <b>[08/2024]</b> One paper about Multivariate Time Series Classification is accepted by ICONIP2024(CCF C)! <br>
