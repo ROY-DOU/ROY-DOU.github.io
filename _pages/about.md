@@ -79,8 +79,8 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
       <br>
     <!--  [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>] -->
     </td>
+      [<a href="../resource/ICONIP 2024 Presentation.pdf">Slides</a>]
   </tr>
-
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"WaveTGNet: Multivariate Time Series Prediction Based on Enhanced Transformer and Graph Wavelet Learning"</b>
