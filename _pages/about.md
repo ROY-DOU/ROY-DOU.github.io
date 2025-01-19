@@ -77,9 +77,8 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
       <br>
       <u>Zijun Dou</u>, Xiaosong Han, Zhelun Peng, Heng Li, Bingyi Xiang and Yanchun Liang. <i>ICONIP 2024(CCF-C)</i>.
       <br>
-    <!--  [<a href="https://arxiv.org/pdf/2311.17331">Arxiv</a>] -->
-    </td>
       [<a href="../resource/ICONIP 2024 Presentation.pdf">Slides</a>]
+    </td>
   </tr>
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
