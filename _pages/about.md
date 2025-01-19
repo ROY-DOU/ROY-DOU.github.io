@@ -117,6 +117,12 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 
 <table style="border:none;font-size:0.95em;">
   <tr>
+  	<td style="border:none;"><i>Jilin Bank Wang Xianghao Scholarship(The highest honor of the college) </i> by Jilin Bank & Jilin University.
+    </td>
+    <td style="border:none;text-align:center;">2024
+    </td>
+  </tr>
+  <tr>
     <td style="border:none;"><i>National Scholarship </i> by the Central Government of China.
     </td>
     <td style="border:none;text-align:center;">2024
