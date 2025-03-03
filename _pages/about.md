@@ -88,7 +88,6 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
       <br>
       <!-- [<a href="https://zeqing-wang.github.io/Mimic/">Project Page</a>] -->
       <!-- [<a href="https://www.sciencedirect.com/science/article/pii/S0167865523003094">Paper</a>] -->
-
 ​    </td>
   </tr>
 
@@ -170,6 +169,10 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 
 <table style="border:none;font-size:0.95em;">
   <tr>
+      <td style="border:none;">TA at <a href="https://netman.aiops.org/courses/anm2025/">Time Series Intelligence</a> 2025(A.K.A. Advanced Network Management)
+    </td>
+  </tr>
+  <tr>
     <td style="border:none;">APNNS Student Member(Asia-Pacific Neural Network Society)
     </td>
   </tr>
@@ -188,8 +191,9 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
   <tr>
     <td style="border:none;">Student Delegate at AILA 2023(International Conference on Artificial Intelligence Logic and Applications)
     </td>
-  </tr>  
+  </tr>
 </table>
+
 
 **Interests**
 
