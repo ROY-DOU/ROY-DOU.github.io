@@ -169,27 +169,27 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 
 <table style="border:none;font-size:0.95em;">
   <tr>
-      <td style="border:none;">TA at <a href="https://netman.aiops.org/courses/anm2025/">Time Series Intelligence</a> 2025(A.K.A. Advanced Network Management)
+      <td style="border:none;">TA at <a href="https://netman.aiops.org/courses/anm2025/">Time Series Intelligence</a> 2025 (A.K.A. Advanced Network Management)
     </td>
   </tr>
   <tr>
-    <td style="border:none;">APNNS Student Member(Asia-Pacific Neural Network Society)
+    <td style="border:none;">APNNS (Asia-Pacific Neural Network Society) Student Member
     </td>
   </tr>
   <tr>
-    <td style="border:none;">CCF Student Member(China Computer Federation)
+    <td style="border:none;">CCF (China Computer Federation) Student Member
     </td>
   </tr>     
   <tr>
-    <td style="border:none;">Volunteer at CBC 2024(CCF Bioinformatics Conference)
+    <td style="border:none;">Volunteer at CBC (CCF Bioinformatics Conference) 2024 
     </td>
   </tr>     
   <tr>
-    <td style="border:none;">Student Delegate at CNCC 2023(China National Computer Congress)
+    <td style="border:none;">Student Delegate at CNCC (China National Computer Congress) 2023
     </td>
   </tr>  
   <tr>
-    <td style="border:none;">Student Delegate at AILA 2023(International Conference on Artificial Intelligence Logic and Applications)
+    <td style="border:none;">Student Delegate at AILA (International Conference on Artificial Intelligence Logic and Applications) 2023
     </td>
   </tr>
 </table>
