@@ -203,4 +203,4 @@ Apart from games, I often play table tennis.
 --------
 
 <center><b>Site Analytics</b></center>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=T4UIhX2t22nm_qN1kFnxR_qI8tV9vvambgs4Ldcj7z0'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rS4QF9w4loXgos2oKxvSGoSxIwNdZKDnlDLd9Ge4eas&cl=ffffff&w=a"></script>
