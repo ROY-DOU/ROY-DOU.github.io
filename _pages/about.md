@@ -122,7 +122,6 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
     </td>
   </tr>
   <tr>
-  <tr>
   	<td style="border:none;"><i>Outstanding Undergraduate Graduate of Jilin University </i> by Jilin University.
     </td>
     <td style="border:none;text-align:center;">2025
@@ -177,6 +176,7 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
     </td>
   </tr>
 </table>
+
 **Services**
 
 <table style="border:none;font-size:0.95em;">
