@@ -116,6 +116,13 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 
 <table style="border:none;font-size:0.95em;">
   <tr>
+  	<td style="border:none;"><i>Outstanding Undergraduate Thesis of Jilin University (Ranked 1st out of 19): Design and Implementation of an Automated Framework for Time Series Augmentation </i> by Jilin University.
+    </td>
+    <td style="border:none;text-align:center;">2025
+    </td>
+  </tr>
+  <tr>
+  <tr>
   	<td style="border:none;"><i>Outstanding Undergraduate Graduate of Jilin University </i> by Jilin University.
     </td>
     <td style="border:none;text-align:center;">2025
