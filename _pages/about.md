@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-![BSc](https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2021--2025E)-yellowgreen?style=flat-square&color=181717&labelColor=red)
+![BSc](https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2021--2025)-yellowgreen?style=flat-square&color=181717&labelColor=red)
 ![MPhil](https://img.shields.io/badge/Master.-TSINGHUA.%20(2025--2028E)-yellowgreen?style=flat-square&color=181717&labelColor=blue)
 
 <!-------------------->
@@ -25,6 +25,8 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[06/2025]</b> I won Outstanding Undergraduate Thesis of Jilin University! <br>
+  <b>[06/2025]</b> I won Outstanding Undergraduate Graduate of Jilin University! <br>
   <b>[12/2024]</b> I won Jilin Bank Wang Xiang-hao Scholarship! <br>      
   <b>[11/2024]</b> I won the National Scholarship! <br>
   <b>[10/2024]</b> I successfully received an offer to pursue a Master's degree at Tsinghua University! <br>
@@ -36,7 +38,7 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
   <b>[04/2024]</b> I obtained a software copyright for the Enose Algorithm Debugging System! <br>  
   <b>[11/2023]</b> I won a world silver medal in the International Genetically Engineered Machine Competition! <br>  
   <b>[07/2023]</b> I obtained a software copyright for the Non-Invasive Diabetes Detection System Based on Bionic Olfaction! <br>  
-  <b>[05/2023]</b> I won an Honorable Mention in the Interdisciplinary Contest in Modeling (ICM) by COMAP! <br>   
+  <!-- <b>[05/2023]</b> I won an Honorable Mention in the Interdisciplinary Contest in Modeling (ICM) by COMAP! <br>   -->
   </p>
 </div>
 **Experience**
