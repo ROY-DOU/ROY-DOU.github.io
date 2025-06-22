@@ -25,7 +25,7 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[06/2025]</b> I won Outstanding Undergraduate Thesis of Jilin University! <br>
+  <b>[06/2025]</b> I won Outstanding Undergraduate Thesis of Jilin University (Ranked 1st out of 19)! <br>
   <b>[06/2025]</b> I won Outstanding Undergraduate Graduate of Jilin University! <br>
   <b>[12/2024]</b> I won Jilin Bank Wang Xiang-hao Scholarship! <br>      
   <b>[11/2024]</b> I won the National Scholarship! <br>
@@ -41,6 +41,7 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
   <!-- <b>[05/2023]</b> I won an Honorable Mention in the Interdisciplinary Contest in Modeling (ICM) by COMAP! <br>   -->
   </p>
 </div>
+
 **Experience**
 <!-- <h2><b>Experience</b></h2> -->
 
@@ -63,11 +64,12 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b><a href="https://www.keaml.cn/BMKnowledge/index.html">BMKnowledge Lab</a>, Jilin University</b>
       <br>
-      (Oct. 2022 - Now)
+      (Oct. 2022 - 2025)
       <br>
     </td>
   </tr>
 </table>
+
 
 **Publications**
 <!-- <h2><b>Publications</b></h2> -->
