@@ -79,8 +79,9 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"DynaTGNet: Enhanced Transformer-Based Spatiotemporal Dynamic Graph Neural Network for Multivariate Time Series Classification"</b>
       <br>
-      <u>Zijun Dou</u>, Xiaosong Han, Zhelun Peng, Heng Li, Bingyi Xiang and Yanchun Liang. <i>ICONIP 2024(CCF-C)</i>.
+      <u>Zijun Dou</u>, Xiaosong Han, Zhelun Peng, Heng Li, Bingyi Xiang and Yanchun Liang. <i>ICONIP 2024 (CCF-C)</i>.
       <br>
+      [<a href="https://link.springer.com/chapter/10.1007/978-981-96-6954-7_32">Paper</a>]  
       [<a href="../resource/ICONIP 2024 Presentation.pdf">Slides</a>]
     </td>
   </tr>
