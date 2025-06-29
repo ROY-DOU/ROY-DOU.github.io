@@ -116,6 +116,25 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 <!-- <h4><b>Miscellaneous</b></h4> -->
 <!-- <h5><i>Articles & Projects</i></h5> -->
 
+**Projects**
+
+<tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>"Diab-Enose: Non-Invasive Blood Glucose Detection System Based on Bionic Olfaction"</b>,  
+      <br>
+      [<a href="https://github.com/ROY-DOU/Enose">Github</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/enose.png">
+      <img src='/images/enose.png' width="300">
+      </a>
+    </td>
+  </tr>
+
+
+
+
+
 **Awards**
 
 <table style="border:none;font-size:0.95em;">
