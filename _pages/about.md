@@ -25,6 +25,7 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[10/2025]</b> One paper about Drug Repositioning is accepted by BIBM2025(CCF B)! <br>
   <b>[06/2025]</b> I won Outstanding Undergraduate Thesis of Jilin University (Ranked 1st out of 19)! <br>
   <b>[06/2025]</b> I won Outstanding Undergraduate Graduate of Jilin University! <br>
   <b>[12/2024]</b> I won Jilin Bank Wang Xiang-hao Scholarship! <br>      
