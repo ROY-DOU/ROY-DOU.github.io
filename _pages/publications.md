@@ -19,6 +19,21 @@ author_profile: true
 
 <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>"Data-Bridge: A Multi-Agent System for Code-Based Multimodal Schema Alignment"</b>, 
+      <br>
+      Siyuan Zhou, <u>Zijun Dou</u> and Fangxiang Feng. <i>ICASSP 2026 (CCF-B)</i>.
+      <br>
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/Data-Bridge.png">
+      <img src='/images/Data-Bridge.png' width="300">
+      </a>
+    </td>
+  </tr>
+
+
+<tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>"Panacea: Enhancing Graph Learning with Multimodal Semantics for Drug Repositioning"</b>, 
       <br>
       <u>Zijun Dou</u>, Yun Zhang, Baokun Zhang, Lingxiao Li, Xiaoyue Feng, Renchu Guan and Xiaosong Han. <i>BIBM 2025 (CCF-B)</i>.
