@@ -79,6 +79,14 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"Data-Bridge: A Multi-Agent System for Code-Based Multimodal Schema Alignment"</b>
+      <br>
+      Siyuan Zhou, <u>Zijun Dou</u> and Fangxiang Feng. <i>ICASSP 2026 (CCF-B)</i>.
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Panacea: Enhancing Graph Learning with Multimodal Semantics for Drug Repositioning"</b>
       <br>
       <u>Zijun Dou</u>, Yun Zhang, Baokun Zhang, Lingxiao Li, Xiaoyue Feng, Renchu Guan and Xiaosong Han. <i>BIBM 2025 (CCF-B)</i>.
