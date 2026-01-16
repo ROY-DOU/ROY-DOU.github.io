@@ -25,13 +25,14 @@ I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in E
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[10/2025]</b> One paper about Drug Repositioning is accepted by BIBM2025(CCF B)! <br>
+  <b>[01/2026]</b> One paper about multi-agent multimodal schema alignment is accepted by ICASSP 2026 (CCF B)! <br>
+  <b>[10/2025]</b> One paper about Drug Repositioning is accepted by BIBM 2025 (CCF B)! <br>
   <b>[06/2025]</b> I won Outstanding Undergraduate Thesis of Jilin University (Ranked 1st out of 19)! <br>
   <b>[06/2025]</b> I won Outstanding Undergraduate Graduate of Jilin University! <br>
   <b>[12/2024]</b> I won Jilin Bank Wang Xiang-hao Scholarship! <br>      
   <b>[11/2024]</b> I won the National Scholarship! <br>
   <b>[10/2024]</b> I successfully received an offer to pursue a Master's degree at Tsinghua University! <br>
-  <b>[08/2024]</b> One paper about Multivariate Time Series Classification is accepted by ICONIP2024(CCF C)! <br>
+  <b>[08/2024]</b> One paper about Multivariate Time Series Classification is accepted by ICONIP 2024 (CCF C)! <br>
   <b>[07/2024]</b> I won the National Third Prize in the China University Service Outsourcing Innovation and Entrepreneurship Competition! <br>
   <b>[04/2024]</b> I won the SAMSUNG Scholarship! <br>  
   <b>[04/2024]</b> One paper about Multivariate Time Series Forecasting is accepted by the Outstanding Papers Collection of the Jilin University Student Innovation and Entrepreneurship Training Program! <br>  
