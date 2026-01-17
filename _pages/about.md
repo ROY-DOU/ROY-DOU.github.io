@@ -15,7 +15,7 @@ redirect_from:
 <!-------------------->
 **Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.**
 
-Currently, I'm an incoming master student in the [**Institute for Network Sciences and Cyberspace**](https://www.insc.tsinghua.edu.cn/) at [**Tsinghua University**](https://www.tsinghua.edu.cn/en/), as a member of the [**NetMan Lab**](https://netman.aiops.org/), advised by Associate Professor [**Dan Pei**](https://netman.aiops.org/~peidan/). My recent research interests relate to time series foundation models.
+Currently, I'm a first-year Master's student in the [**Institute for Network Sciences and Cyberspace**](https://www.insc.tsinghua.edu.cn/) at [**Tsinghua University**](https://www.tsinghua.edu.cn/en/), as a member of the [**NetMan Lab**](https://netman.aiops.org/), advised by Associate Professor [**Dan Pei**](https://netman.aiops.org/~peidan/). My recent research interests relate to time series foundation models.
 
 I am pursuing a Bachelor's degree in [**Software Engineering (Pilot Program in Engineering)**](http://csw.jlu.edu.cn/info/1080/2824.htm) from [**Jilin University**](https://www.jlu.edu.cn/). During my undergraduate studies, I conducted research on time series classification and bioinformatics under the supervision of Associate Professor [**Xiaosong Han**](https://ccst.jlu.edu.cn/info/1196/17217.htm).
 
