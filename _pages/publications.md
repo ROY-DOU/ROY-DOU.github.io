@@ -58,8 +58,8 @@ author_profile: true
       [<a href="../resource/ICONIP 2024 Presentation.pdf">Slides</a>]
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/panacea2.png">
-      <img src='/images/panacea2.png' width="300">
+      <a href="/images/dynatgnet.png">
+      <img src='/images/dynatgnet.png' width="300">
       </a>
     </td>
   </tr>
