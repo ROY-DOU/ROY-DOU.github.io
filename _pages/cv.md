@@ -18,7 +18,8 @@ Education
   * @College Of Software
   * GPA: 3.82/4.0, Overall Result: 92.13/100, Rank: Top 2%
 
-**Awards**
+Awards
+
 | *National Scholarship* by the Central Government of China.            |2024|
 | *China University Service Outsourcing Innovation and Entrepreneurship Competition: National Third Prize* by the Competition Committee.   |2024|
 | *National Scholarship* by the Central Government of China.            |2024|
