@@ -38,6 +38,7 @@ author_profile: true
       <br>
       <u>Zijun Dou</u>, Yun Zhang, Baokun Zhang, Lingxiao Li, Xiaoyue Feng, Renchu Guan and Xiaosong Han. <i>BIBM 2025 (CCF-B)</i>.
       <br>
+      [<a href="../resource/BIBM 2025 Presentation.pdf">Slides</a>]
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/panacea.png">
