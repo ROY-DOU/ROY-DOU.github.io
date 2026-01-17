@@ -18,7 +18,7 @@ Education
   * @College Of Software
   * GPA: 3.82/4.0, Overall Result: 92.13/100, Rank: Top 2%
 
-Awards
+Selected Honors & Awards
 
 | *Outstanding Undergraduatete Thesis of Jilin University (Ranked 1st out of 19): Design and Implementation of an Automated Framework for Time Series Augmentation* by Jilin University. | 2025 |
 | *Outstanding Undergraduate Graduate of Jilin University* by Jilin University. | 2025 |
