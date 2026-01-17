@@ -91,6 +91,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
       <br>
       <u>Zijun Dou</u>, Yun Zhang, Baokun Zhang, Lingxiao Li, Xiaoyue Feng, Renchu Guan and Xiaosong Han. <i>BIBM 2025 (CCF-B)</i>.
       <br>
+      [<a href="../resource/BIBM 2025 Presentation.pdf">Slides</a>]
     </td>
   </tr>
   <tr>
