@@ -146,8 +146,8 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
       [<a href="https://github.com/ROY-DOU/Enose">Github</a>]
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/enose.png">
-      <img src='/images/enose.png' width="300">
+      <a href="/images/enose2.png">
+      <img src='/images/enose2.png' width="300">
       </a>
     </td>
   </tr>
