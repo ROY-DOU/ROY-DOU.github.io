@@ -25,6 +25,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[01/2026]</b> One paper about automated data augmentation for time series is accepted by ICLR 2026 (THCPL A)! <br>
   <b>[01/2026]</b> One paper about multi-agent multimodal schema alignment is accepted by ICASSP 2026 (CCF B)! <br>
   <b>[10/2025]</b> One paper about Drug Repositioning is accepted by BIBM 2025 (CCF B)! <br>
   <b>[06/2025]</b> I won Outstanding Undergraduate Thesis of Jilin University (Ranked 1st out of 19)! <br>
@@ -77,6 +78,14 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
 <!-- <h2><b>Publications</b></h2> -->
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series</b>
+      <br>
+      <u>Zijun Dou</u>, Zhenhe Yao, Zhe Xie, Xidao Wen, Tong Xiao and Dan Pei. <i>ICLR 2026 (THCPL-A)</i>.
+      <br>
+    </td>
+  </tr>
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Data-Bridge: A Multi-Agent System for Code-Based Multimodal Schema Alignment"</b>
