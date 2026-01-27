@@ -80,7 +80,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series</b>
+      <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series"</b>
       <br>
       <u>Zijun Dou</u>, Zhenhe Yao, Zhe Xie, Xidao Wen, Tong Xiao and Dan Pei. <i>ICLR 2026 (THCPL-A)</i>.
       <br>
