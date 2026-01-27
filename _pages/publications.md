@@ -19,6 +19,20 @@ author_profile: true
 
 <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series</b>, 
+      <br>
+      <u>Zijun Dou</u>, Zhenhe Yao, Zhe Xie, Xidao Wen, Tong Xiao and Dan Pei. <i>ICLR 2026 (THCPL-A)</i>.
+      <br>
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/AutoDA-Timeseries.png">
+      <img src='/images/AutoDA-Timeseries.png' width="300">
+      </a>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>"Data-Bridge: A Multi-Agent System for Code-Based Multimodal Schema Alignment"</b>, 
       <br>
       Siyuan Zhou, <u>Zijun Dou</u> and Fangxiang Feng. <i>ICASSP 2026 (CCF-B)</i>.
