@@ -19,7 +19,7 @@ author_profile: true
 
 <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series</b>, 
+      <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series"</b>, 
       <br>
       <u>Zijun Dou</u>, Zhenhe Yao, Zhe Xie, Xidao Wen, Tong Xiao and Dan Pei. <i>ICLR 2026 (THCPL-A)</i>.
       <br>
