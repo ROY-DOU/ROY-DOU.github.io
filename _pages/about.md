@@ -25,6 +25,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[03/2026]</b> One paper about adaptive time series augmentation and LLM-based attack chain reasoning is accepted by ICLR 2026 (THCPL A)! <br>
   <b>[01/2026]</b> One paper about automated data augmentation for time series is accepted by ICLR 2026 (THCPL A)! <br>
   <b>[01/2026]</b> One paper about multi-agent multimodal schema alignment is accepted by ICASSP 2026 (CCF B)! <br>
   <b>[10/2025]</b> One paper about Drug Repositioning is accepted by BIBM 2025 (CCF B)! <br>
@@ -78,6 +79,14 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
 <!-- <h2><b>Publications</b></h2> -->
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+      <b>"APTGuard: An APT Detection Method Based on LLM and Time-Series Augmentation"</b>
+      <br>
+      Xinran Li<sup>*</sup> and <u>Zijun Dou</u><sup>*</sup>. <i>ICLR 2026 (THCPL-A)</i>.
+      <br>
+    </td>
+  </tr>
   <tr>
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series"</b>
