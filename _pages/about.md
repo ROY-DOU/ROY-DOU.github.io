@@ -25,8 +25,8 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[03/2026]</b> One paper about adaptive time series augmentation and LLM-based attack chain reasoning is accepted by ICLR 2026 (THCPL A)! <br>
-  <b>[01/2026]</b> One paper about automated data augmentation for time series is accepted by ICLR 2026 (THCPL A)! <br>
+  <b>[03/2026]</b> One paper about adaptive time series augmentation and LLM-based attack chain reasoning is accepted by ICLR 2026 (CCF A)! <br>
+  <b>[01/2026]</b> One paper about automated data augmentation for time series is accepted by ICLR 2026 (CCF A)! <br>
   <b>[01/2026]</b> One paper about multi-agent multimodal schema alignment is accepted by ICASSP 2026 (CCF B)! <br>
   <b>[10/2025]</b> One paper about Drug Repositioning is accepted by BIBM 2025 (CCF B)! <br>
   <b>[06/2025]</b> I won Outstanding Undergraduate Thesis of Jilin University (Ranked 1st out of 19)! <br>
@@ -83,7 +83,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"APTGuard: An APT Detection Method Based on LLM and Time-Series Augmentation"</b>
       <br>
-      Xinran Li<sup>*</sup> and <u>Zijun Dou</u><sup>*</sup>. <i>ICLR 2026 (THCPL-A)</i>.
+      Xinran Li<sup>*</sup> and <u>Zijun Dou</u><sup>*</sup>. <i>ICLR 2026 (CCF A)</i>.
       <br>
     </td>
   </tr>
@@ -91,7 +91,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series"</b>
       <br>
-      <u>Zijun Dou</u>, Zhenhe Yao, Zhe Xie, Xidao Wen, Tong Xiao and Dan Pei. <i>ICLR 2026 (THCPL-A)</i>.
+      <u>Zijun Dou</u>, Zhenhe Yao, Zhe Xie, Xidao Wen, Tong Xiao and Dan Pei. <i>ICLR 2026 (CCF A)</i>.
       <br>
     </td>
   </tr>
@@ -99,7 +99,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Data-Bridge: A Multi-Agent System for Code-Based Multimodal Schema Alignment"</b>
       <br>
-      Siyuan Zhou, <u>Zijun Dou</u> and Fangxiang Feng. <i>ICASSP 2026 (CCF-B)</i>.
+      Siyuan Zhou, <u>Zijun Dou</u> and Fangxiang Feng. <i>ICASSP 2026 (CCF B)</i>.
       <br>
     </td>
   </tr>
@@ -107,7 +107,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"Panacea: Enhancing Graph Learning with Multimodal Semantics for Drug Repositioning"</b>
       <br>
-      <u>Zijun Dou</u>, Yun Zhang, Baokun Zhang, Lingxiao Li, Xiaoyue Feng, Renchu Guan and Xiaosong Han. <i>BIBM 2025 (CCF-B)</i>.
+      <u>Zijun Dou</u>, Yun Zhang, Baokun Zhang, Lingxiao Li, Xiaoyue Feng, Renchu Guan and Xiaosong Han. <i>BIBM 2025 (CCF B)</i>.
       <br>
       [<a href="../resource/BIBM 2025 Presentation.pdf">Slides</a>]
     </td>
@@ -116,7 +116,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
       <b>"DynaTGNet: Enhanced Transformer-Based Spatiotemporal Dynamic Graph Neural Network for Multivariate Time Series Classification"</b>
       <br>
-      <u>Zijun Dou</u>, Xiaosong Han, Zhelun Peng, Heng Li, Bingyi Xiang and Yanchun Liang. <i>ICONIP 2024 (CCF-C)</i>.
+      <u>Zijun Dou</u>, Xiaosong Han, Zhelun Peng, Heng Li, Bingyi Xiang and Yanchun Liang. <i>ICONIP 2024 (CCF C)</i>.
       <br>
       [<a href="https://link.springer.com/chapter/10.1007/978-981-96-6954-7_32">Paper</a>]  
       [<a href="../resource/ICONIP 2024 Presentation.pdf">Slides</a>]
@@ -139,15 +139,6 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
       <img src='images/gaokao.png' width="300">
       </a>
     </td> -->
-<!--    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-      <b>"A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion"</b>
-      <br>
-      <u>Zeqing Wang</u>, Shengpeng Ji, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han. <i>Computer Science(Chinese, CCF-B)</i>.
-      <br>
-      [<a href="https://www.jsjkx.com/CN/10.11896/jsjkx.211100266">Paper</a>]
-      [<a href="https://github.com/Zeqing-Wang/Reco-PMW">Github</a>]
-    </td>-->
-  <!--</tr>-->
 
 </table>
 
