@@ -19,9 +19,20 @@ author_profile: true
 
 <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>"GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents"</b>, 
+      <br>
+      GLM-5V-Turbo Team. <i>Technical Report</i>.
+      <br>
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/GLM-5V-Turbo.png">
+      <img src='/images/GLM-5V-Turbo.png' width="300">
+      </a>
+    </td>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series"</b>, 
       <br>
-      <u>Zijun Dou</u>, Zhenhe Yao, Zhe Xie, Xidao Wen, Tong Xiao and Dan Pei. <i>ICLR 2026 (THCPL-A)</i>.
+      <u>Zijun Dou</u>, Zhenhe Yao, Zhe Xie, Xidao Wen, Tong Xiao and Dan Pei. <i>ICLR 2026 (CCF-A)</i>.
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">

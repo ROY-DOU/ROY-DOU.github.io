@@ -25,7 +25,7 @@ I received my Bachelor's degree in [**Software Engineering (Pilot Program in Eng
 <h1 style="color: rgb(231, 65, 65);"><b>What's new:</b></h1>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[04/2026]</b> Released **GLM-5V-Turbo**, a native multimodal foundation model for agents that unifies perception, planning, reasoning, tool use, and execution! <br>
+  <b>[04/2026]</b> Released <strong>GLM-5V-Turbo</strong>, a native multimodal foundation model for agents that unifies perception, planning, reasoning, tool use, and execution! <br>
   <b>[03/2026]</b> One paper about adaptive time series augmentation and LLM-based attack chain reasoning is accepted by ICLR 2026 (CCF A)! <br>
   <b>[01/2026]</b> One paper about automated data augmentation for time series is accepted by ICLR 2026 (CCF A)! <br>
   <b>[01/2026]</b> One paper about multi-agent multimodal schema alignment is accepted by ICASSP 2026 (CCF B)! <br>
