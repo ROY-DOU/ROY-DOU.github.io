@@ -29,6 +29,9 @@ author_profile: true
       <img src='/images/GLM-5V-Turbo.png' width="300">
       </a>
     </td>
+</tr>
+
+<tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>"AutoDA-Timeseries: Automated Data Augmentation for Time Series"</b>, 
       <br>
